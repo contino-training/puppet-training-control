@@ -7,9 +7,9 @@ mod 'puppetlabs-stdlib', '3.2.1'
 #   :git => 'git@github.com:contino-training/jordan-apache.git',
 #   :tag => '0.0.2'
 #
- mod 'wget',
-   :git => 'git@github.com:contino-training/puppet-wget.git',
-   :tag => '1.7.6'
+#  mod 'wget',
+#    :git => 'git@github.com:contino-training/puppet-wget.git',
+#    :tag => '1.7.6'
 #
 # mod 'epel',
 #   :git => 'git@github.com:contino-training/puppet-epel.git',
